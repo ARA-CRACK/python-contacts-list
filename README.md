@@ -63,11 +63,8 @@ python main.py
 
 ## 📸 Screenshot
 
-Add a screenshot named `screenshot.png` to the root of your repo to display here.
-
-```markdown
-![App Screenshot](screenshot.png)
-```
+> 📸 Screenshot of the app interface:
+![App Screenshot](./screenshot.png)
 
 ---
 
